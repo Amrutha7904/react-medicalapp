@@ -1,0 +1,91 @@
+.login-module{
+  background: #f6f5f7;
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+font-family: sans-serif;
+height: 97vh;
+margin-top: 20px;
+margin-left: -180px;
+}
+h1 {
+font-size: 25px;
+color: black;
+font-weight: 600;
+font-family:  sans-serif;
+}
+input {
+background-color: #eee;
+border: none;
+padding: 12px 15px;
+margin: 8px 0;
+width: 100%;
+}
+.login-form {
+background-color: #ffffff;
+display: flex;
+align-items: center;
+justify-content: center;
+flex-direction: column;
+
+padding: 0 50px;
+height: 80vh;
+text-align: center;
+}
+/* right section */
+.btn {
+  width: 112px;
+  height: 35px;
+  border: none;
+  border-radius: 20px;
+  background: rgba(0, 119, 255, 0.87);
+  color: #ffffff;
+  cursor: pointer;
+}
+.btn:hover{
+    background: rgba(15, 1, 1, 0.144);
+    color: rgba(0, 119, 255, 0.87);
+   
+}
+h4{
+    margin: 12px;
+    padding: 12px;
+
+}
+.right-container {
+  background-color: rgb(17, 96, 243);
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin-top: 82px;
+  margin-left: 314px;
+  padding: 0 40px;
+  text-align: center;
+  top: 0;
+  height: 80vh;
+  width: 350px;
+}
+.right-container button {
+  background: #ffffff;
+  color: rgb(17, 96, 243);
+  width: 100px;
+  height: 35px;
+  border: none;
+  border-radius: 20px;
+  font-weight: 500;
+  cursor: pointer;
+}
+.right-container button:hover {
+  background-color: rgba(0, 183, 255, 0.815);
+  color: #ffffff;
+}
+.right-container h2 {
+  color: #ffffff;
+}
+.right-container h6 {
+  color: #efef;
+  font-family: sans-serif;
+}
