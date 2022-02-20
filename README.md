@@ -20,7 +20,7 @@ A simple Medical App for entering medical record of patients by user login. This
 
 ## Live app
 
-To view and test the app you can visit this link.
+To view and test the app you can visit this link (https://medical-react-app.herokuapp.com/)
 
 
 ## Functionalities
