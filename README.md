@@ -42,6 +42,8 @@ To view and test the app you can visit this link.
 ## Packages & Libraries
 
 - react-router-dom
+- bootstrap
+- react-icons
 - framer-motion
 
 
